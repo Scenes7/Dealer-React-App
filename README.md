@@ -1,2 +1,1 @@
-# Dealer-React-App
-Web application for the Discord bot "Dealer"
+Be aware that some dependencies used may be deprecated.

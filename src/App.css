@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: overlay;
+  flex-direction: column;
+
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0); 
+}
+
+.App-link {
+  color: #61dafb;
+}
+.blank-template-body {
+  color: #36414D;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.6;
+  width: 750px;
+  text-align: left;
+}

@@ -1,0 +1,15 @@
+{
+  "short_name": "Dealer",
+  "name": "Dealer Discord Bot",
+  "icons": [
+    {
+      "src": "bot_pfp.jpg",
+      "type": "image/jpg",
+      "sizes": "320x212"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
